@@ -4,7 +4,7 @@
 
 - **"Flutter Web" - Jean Paul Gotopo**
 
-Slides : 
+Slides : https://drive.google.com/file/d/1v7N1_AIAJ9iTONL6UWPQ8nVpJMpaODJ7/view
 
 
 - **"Using Hive DB in Flutter" - Frank Moreno**
